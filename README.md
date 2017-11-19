@@ -5,4 +5,4 @@ this is my second project - searching for a job is one of the most difficult thi
 To create this page I'll use simple HTML5, CSS3 and Javascript.
 
 Enjoy & thank you for attention!
-# My_second_project
+
